@@ -19,7 +19,7 @@ I’m an eLearning specialist and Moodle administrator based in Addis Ababa, Eth
 - **Etemari.net** – National curriculum-based digital content delivery
 
 ## 📫 Let’s Connect
-- Upwork: [Hire me on Upwork]([https://www.upwork.com/freelancers/~01abcdeyourprofile](https://www.upwork.com/freelancers/~013d751ab3fcbcc84d?mp_source=share))
+- Upwork: [Hire me on Upwork]([https://www.upwork.com/freelancers/~013d751ab3fcbcc84d?mp_source=share])
 - LinkedIn: [Let us Connect](https://www.linkedin.com/in/robel-alemu43)
 - Email: alemurobel54@gmail.com
 
