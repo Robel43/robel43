@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Robel
+![1750006158426](https://github.com/user-attachments/assets/0bbda53f-d6cb-4fa4-b408-a30333bff1fb)
+
 
 I’m an eLearning specialist and Moodle administrator based in Addis Ababa, Ethiopia. I help institutions build and manage scalable, user-friendly **Moodle LMS** platforms.
 
@@ -20,7 +22,7 @@ I’m an eLearning specialist and Moodle administrator based in Addis Ababa, Eth
 
 ## 📫 Let’s Connect
 - Upwork: [Hire me on Upwork]([https://www.upwork.com/freelancers/~01abcdeyourprofile](https://www.upwork.com/freelancers/~013d751ab3fcbcc84d?mp_source=share))
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/robel-alemu43)
+- LinkedIn: [Let us Connect](https://www.linkedin.com/in/robel-alemu43)
 - Email: alemurobel54@gmail.com
 
 ---
