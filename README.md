@@ -14,9 +14,9 @@ I’m an eLearning specialist and Moodle administrator based in Addis Ababa, Eth
 `Moodle` `PHP` `HTML` `SCORM` `H5P` `MySQL` `Git` `Articulate Rise`
 
 ## 📁 Featured Projects
+- **Etemari.net** – National curriculum-based digital content delivery
 - **Green ICT LMS** – Corporate training platform with custom reporting  
 - **Select College LMS** – Blended learning with SCORM modules and Zoom  
-- **Etemari.net** – National curriculum-based digital content delivery
 
 ## 📫 Let’s Connect
 - Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~013d751ab3fcbcc84d?mp_source=share)
