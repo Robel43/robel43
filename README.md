@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Robel
 
-
-<img width="715" height="705" alt="Untitled design" src="https://github.com/user-attachments/assets/afe16895-67c2-4a9f-ba32-38a4b18627a3" />
-
 I’m an eLearning specialist and Moodle administrator based in Addis Ababa, Ethiopia. I help institutions build and manage scalable, user-friendly **Moodle LMS** platforms.
 
 ## 💼 What I Do
